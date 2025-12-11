@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="wiki_banner" src="https://github.com/user-attachments/assets/96615499-3e81-4337-97f6-4f0bd4b745c2" />
+
 
 # That one Flying Bear Wiki you've been looking for
 This repo is created with the sole purpose of becoming your one-stop wiki if you got yourself one of Flying Bear printers.
@@ -10,14 +10,15 @@ At this point the only entries we have are for Flying Bear Ghost 5, fill free to
 
 ## Printers
 - Ghost 5 
-  - [Bed Adhesion](calibrations/BedAdhesion.md)
-  - [Bed Leveling](calibrations/BedLeveling.md)
-  - [Steps Calibration](calibrations/StepsCalibration.md)
-  - [Silent Motor Drivers](improvements/SilentDrivers.md)
-  - [Cooling](improvements/Cooling.md)
+  - [Bed Adhesion](Ghost_5/calibrations/BedAdhesion.md)
+  - [Bed Leveling](Ghost_5/calibrations/BedLeveling.md)
+  - [Steps Calibration](Ghost_5/calibrations/StepsCalibration.md)
+  - [Silent Motor Drivers](Ghost_5/improvements/SilentDrivers.md)
+  - [Cooling](Ghost_5/improvements/Cooling.md)
   - [Marlin for Ghost 4S/5](https://github.com/Sergey1560/Marlin_FB4S)
-  - [Custom Marlin](improvements/CustomMarlin.md)
-  - [OctoPrint](improvements/Octoprint.md)
+  - [Custom Marlin](Ghost_5/improvements/CustomMarlin.md)
+  - [OctoPrint](Ghost_5/improvements/Octoprint.md)
+  - [dump](Ghost_5/info_dump.md)
 
 ## Useful resources
 
